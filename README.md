@@ -7,13 +7,11 @@ This project completes all requirements defined in the **Meteoros Sensing Intern
 
 ## 🚀 **Live Demo**
 
-🔗 **Demo URL:** *Add your Netlify / Vercel link here*
+🔗 **Demo URL:** https://dragtodolist.vercel.app/
 
 ---
 
 ## 📦 **Features**
-
-This app satisfies **every checklist item** from the assignment PDF :
 
 ### **Board Layout**
 
@@ -50,8 +48,6 @@ This app satisfies **every checklist item** from the assignment PDF :
 
 ### **Accessibility**
 
-(As recommended in the PDF — partially implemented)
-
 * Focusable tasks (`tabIndex=0`)
 * Keyboard movement:
 
@@ -66,7 +62,6 @@ This app satisfies **every checklist item** from the assignment PDF :
 * **React**
 * No UI libraries (Tailwind, Bootstrap, MUI)
 * No drag-and-drop libraries
-  (*Only `react` and `react-dom` are used as allowed* )
 
 ---
 
@@ -92,8 +87,8 @@ src/
 ### **1. Clone the repository**
 
 ```sh
-git clone <your-repo-url>
-cd <folder>
+git clone <https://github.com/sanjaydeveloper-001/Dragable-To-Do-List>
+cd <Dragable-To-Do-List>
 ```
 
 ### **2. Install dependencies**
